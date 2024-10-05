@@ -39,7 +39,7 @@ Hi everyone! I'm an innovative full stack developer who loves connecting the dot
 
 # 🔝 Projects
 </> Ruta Track -(https://github.com/4GeeksAcademy/Team-404) Full-stack application showing the skills gained during the bootcamp.
-</> Star Wars Database -(https://github.com/4GeeksAcademy/BryanBV03-StarWars)] React-based project demonstrating Front-End and Back-End mastery.
+</> Star Wars Database -(https://github.com/4GeeksAcademy/BryanBV03-StarWars) React-based project demonstrating Front-End and Back-End mastery.
 # ⚡ Fun fact
 </> Did you know that the first computer ‘bug’ was an actual, real-life error? In 1947, Grace Hopper found a moth trapped in a relay of a Harvard Mark II computer. She noted the moth in the logbook and coined the term ‘computer bug’. The debugged moth can still be seen on display at the Smithsonian Institution's National Museum of American History in Washington, DC.
 ## 🌐 Socials
