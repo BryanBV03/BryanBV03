@@ -1,7 +1,6 @@
 # 👨‍💻 Brayan Bravo Valencia | Full-Stack Developer
 # 💫 About Me
 Hi everyone! I'm an innovative full stack developer who loves connecting the dots between creativity and coding. I bring a special problem-solving approach to every project and I'm always thrilled to see what new challenges I can conquer!<br/>
-https://raw.githubusercontent.com/ArielCalisaya/ArielCalisaya/output-snake-commits/github-contribution-grid-snake.svg
 
 # 🚀 Current Focus
 </> I'm so excited to keep working on the Ruta Track project, which I completed during my programming bootcamp.<br/> 
